@@ -2,21 +2,21 @@
 
 min 
 objetivo:
-+1 x(SP_RJ)
-+2.0 x(SP_Salvador)
-+3.0 x(SP_Aracaju)
-+3.5 x(SP_Macei_)
-+4.0 x(SP_Recife)
-+4.0 x(JP_RJ)
-+2.0 x(JP_Salvador)
-+1.5 x(JP_Aracaju)
-+1.2 x(JP_Macei_)
-+1 x(JP_Recife)
-+6.0 x(MA_RJ)
-+4.0 x(MA_Salvador)
-+3.5 x(MA_Aracaju)
-+3.0 x(MA_Macei_)
-+2.0 x(MA_Recife)
++0.001 x(SP_RJ)
++0.002 x(SP_Salvador)
++0.003 x(SP_Aracaju)
++0.0035 x(SP_Macei_)
++0.004 x(SP_Recife)
++0.004 x(JP_RJ)
++0.002 x(JP_Salvador)
++0.0015 x(JP_Aracaju)
++0.0012 x(JP_Macei_)
++0.001 x(JP_Recife)
++0.006 x(MA_RJ)
++0.004 x(MA_Salvador)
++0.0035 x(MA_Aracaju)
++0.003 x(MA_Macei_)
++0.002 x(MA_Recife)
 
 s.t.
 

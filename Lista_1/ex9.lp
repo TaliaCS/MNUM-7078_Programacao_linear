@@ -25,17 +25,17 @@ c_u_capacidade(Furadeira)_:
 +3 x(C)
 <= 300
 
-c_l_restricao_demanda(A)_:
+c_u_restricao_demanda(A)_:
 +1 x(A)
->= 40
+<= 40
 
-c_l_restricao_demanda(B)_:
+c_u_restricao_demanda(B)_:
 +1 x(B)
->= 50
+<= 50
 
-c_l_restricao_demanda(C)_:
+c_u_restricao_demanda(C)_:
 +1 x(C)
->= 20
+<= 20
 
 bounds
    0 <= x(A) <= +inf
